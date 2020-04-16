@@ -1,5 +1,5 @@
 const clientId = ""; // insert your client id here
-const redirectUri = "http://tb-jammin.surge.sh/";
+const redirectUri = "http://localhost:3000/"; // be sure to whitelist this through the Spotify Developer Dashboard
 let accessToken = "";
 
 const Spotify = {
