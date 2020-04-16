@@ -1,4 +1,4 @@
-const clientId = "9beddbe40aff4a61b71fb9a3c13657eb";
+const clientId = ""; // insert your client id here
 const redirectUri = "http://tb-jammin.surge.sh/";
 let accessToken = "";
 
