@@ -6,4 +6,4 @@ A front-end web application written using React.js, which utilizes the Spotify A
 
 
 ### Preview
-![Application Preview](http://tb-jammin.surge.sh/)
+![Application Preview](./preview.jpg)
